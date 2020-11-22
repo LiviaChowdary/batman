@@ -5,7 +5,7 @@ var thunderGroup;
 
 
 function preload(){
-  bruce_walking = loadAnimation("walking_1,png", "walking_2.png","walking_3.png","walking_4.png","walking_5,png","walking_6.png","walking_7.png","walking_8.png");
+  bruce_walking = loadAnimation("walking_1.png", "walking_2.png","walking_3.png","walking_4.png","walking_5.png","walking_6.png","walking_7.png","walking_8.png");
   
   groundImage = loadImage("ground2.png");
   

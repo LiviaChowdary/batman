@@ -54,11 +54,11 @@ function setup() {
       switch(rand){ 
           case 1 : thunder.addImage(thunder1);
             break;
-          case 2 : obstacle.addImage(thunder2);
+          case 2 : thunder.addImage(thunder2);
             break;
-          case 3 : obstacle.addImage(thunder3);
+          case 3 : thunder.addImage(thunder3);
             break; 
-          case 4 : obstacle.addImage(thunder4);
+          case 4 : thunder.addImage(thunder4);
             break;
         default:
           break ;

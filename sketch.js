@@ -11,10 +11,10 @@ function preload(){
   
   cloudImage = loadImage("cloud.png");
   
-  thunder1 = loadImage("obstacle1.png");
-  thunder2 = loadImage("obstacle2.png");
-  thunder3 = loadImage("obstacle3.png");
-  thunder4 = loadImage("obstacle4.png");
+  thunder1 = loadImage("1.png");
+  thunder2 = loadImage("2.png");
+  thunder3 = loadImage("3.png");
+  thunder4 = loadImage("4.png");
   
   
   
